@@ -1,5 +1,6 @@
 # Projekt-Dokumentation zu LA1300
-##NumberGesserSpiel 2.0
+
+## NumberGesserSpiel 2.0 
 
 ☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
