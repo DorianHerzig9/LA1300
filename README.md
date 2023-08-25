@@ -31,8 +31,10 @@ In diesem Projekt will ich mein ehemaliges NumberGesserSpiel mit mehr funktionen
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  | Das Programm ist gestartet und funktionsbereit | Spieler giebt eine korekte Zahl ein | Das Programm gibt einen Sound aus |
+| 2.1  | Das Programm ist gestartet und funktionsbereit | Spieler giebt eine eine falsche Zahl ein | Das Programm gibt einen Sound aus |
+| 3.1  | Das Programm wurde gestartet und es wird gefragt ob man den Multiplayermodus wählen will| Ja | Das Programm führt einen Spielmodus aus in welchem zwei User spielen können |
+| 3.2  | Das Programm wurde gestartet und es wird gefragt ob man den Multiplayermodus wählen will | Nein | Das Programm führt einen Spielmodus aus in welchem nur ein User spielen kann|
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
