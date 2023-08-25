@@ -7,7 +7,7 @@ Dorian Herzig
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |18.08.2023| 0.1 | Heute habe ich mich über die Sound fünktion in C# informiert. |
-|25.08.2023| 0.2 |                                                              |
+|25.08.2023| 0.2 |                                                               |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
