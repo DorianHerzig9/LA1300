@@ -56,7 +56,8 @@ In diesem Projekt will ich mein ehemaliges NumberGesserSpiel mit mehr funktionen
 | 4.D |08.09.20323|Dorian| Score implementieren | 120-165 min |
 | 5.E |08.09.20323|Dorian| Portfolioeintrag | 90-120 min|
 
-Total: 
+Total: 18 Arbeitsparkete 
+1 = 45 min
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
