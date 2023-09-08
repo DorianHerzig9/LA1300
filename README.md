@@ -22,8 +22,8 @@ In diesem Projekt will ich mein ehemaliges NumberGesserSpiel mit mehr funktionen
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1.   | Muss | Qualität | Als ein User möchte ich Sounds hören, damit man weiss, wann man Gewonnen hat. |
-| 2.   | Muss | Qualität | Als ein User möchte ich Sounds hören, damit ich weiss, wenn ich eine falche Zahl eingegeben habe. |
+###| 1.   | Muss | Qualität | Als ein User möchte ich Sounds hören, damit man weiss, wann man Gewonnen hat. |###
+| 2.   | Muss | Qualität | Als ein User möchte ich einen Score habe bei welchem ich sehe wie viel züge ich gebraucht habe. |
 | 3.   | Muss | Qualität | Als ein User möchte ich einen Multiplayermodus haben, damit ich gegen einen gegner spielen kann. |
 | 4.   | Muss | Qualität | Als ein User möchte ich einen Multiplayermodus haben, damit ich sehen kann wer mit weniger Zügen die Zahl gefunden hat. |
 
@@ -44,15 +44,17 @@ In diesem Projekt will ich mein ehemaliges NumberGesserSpiel mit mehr funktionen
 
 ### 1.4 Diagramme
 
-<img width="386" alt="image" src="https://github.com/DorianHerzig9/LA1300/assets/110893245/c9b6c872-3262-418e-8128-c5384325aa3e">
-
+<img width="356" alt="image" src="https://github.com/DorianHerzig9/LA1300/assets/110893245/5311463d-6f32-4f50-8251-72bbf35b7c98">
 
 ## 2 Planen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A |08.09.20323|Dorian| Code Kosmetik | 90-120 min |
+| 2.B |08.09.20323|Dorian| Classen erstellen | 120-165 min|
+| 3.C |08.09.20323|Dorian| Multiplayer implementieren | 120-165 min |
+| 4.D |08.09.20323|Dorian| Score implementieren | 120-165 min |
+| 5.E |08.09.20323|Dorian| Portfolioeintrag | 90-120 min|
 
 Total: 
 
