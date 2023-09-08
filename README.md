@@ -7,8 +7,10 @@ Dorian Herzig
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |18.08.2023| 0.1 | Heute habe ich mich über die Sound fünktion in C# informiert. |
-|25.08.2023| 0.2 |                                                               |
-|       | 1.0.0   |                                                              |
+|25.08.2023| 0.2 | Heute habe ich mich dafür entschieden, das ich nur eine Score und Multiplaymodus mache. |
+|01.09.2023| 0.3 | Heute habe ich an meinem Projekt gearbeitet und rumprobiert. |
+|08.09.2023| 0.4 | Heute habe ich wieder an meinem Projekt gearbeitet aber ich werde noch Zuhause arbeiten müssen. |
+|  |  |  |
 
 ## 1 Informieren
 
@@ -42,7 +44,8 @@ In diesem Projekt will ich mein ehemaliges NumberGesserSpiel mit mehr funktionen
 
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+<img width="386" alt="image" src="https://github.com/DorianHerzig9/LA1300/assets/110893245/c9b6c872-3262-418e-8128-c5384325aa3e">
+
 
 ## 2 Planen
 
