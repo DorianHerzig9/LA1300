@@ -45,8 +45,6 @@ In diesem Projekt will ich mein ehemaliges NumberGesserSpiel mit mehr funktionen
 | 4.3 | Das Programm wurde im Einzelspieler-Modus gestartet | ------- | Es wird eine Meldung angezeigt, dass der Singleplayer-Modus gestartet wurde. |
 | 4.4 | Das Programm wurde im Einzelspieler-Modus gestartet, und der User hat das Spiel beendet | ------- | Es wird eine Meldung angezeigt, dass das Singleplayer-Spiel beendet wurde, und der endgültige Score im Singleplayer-Modus wird angezeigt. |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
-
 ### 1.4 Diagramme
 
 <img width="356" alt="image" src="https://github.com/DorianHerzig9/LA1300/assets/110893245/5311463d-6f32-4f50-8251-72bbf35b7c98">
@@ -55,31 +53,29 @@ In diesem Projekt will ich mein ehemaliges NumberGesserSpiel mit mehr funktionen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A |08.09.20323|Dorian| Code Kosmetik | 90-120 min |
-| 2.B |08.09.20323|Dorian| Classen erstellen | 120-165 min|
-| 3.C |08.09.20323|Dorian| Multiplayer implementieren | 120-165 min |
-| 4.D |08.09.20323|Dorian| Score implementieren | 120-165 min |
-| 5.E |08.09.20323|Dorian| Portfolioeintrag | 90-120 min|
+| 1.A |08.09.2023|Dorian| Code Kosmetik | 90-120 min |
+| 2.B |08.09.2023|Dorian| Classen erstellen | 120-165 min|
+| 3.C |08.09.2023|Dorian| Multiplayer implementieren | 120-165 min |
+| 4.D |08.09.2023|Dorian| Score implementieren | 120-165 min |
+| 5.E |08.09.2023|Dorian| Portfolioeintrag | 90-120 min|
 
 Total: 18 Arbeitsparkete 
 1 = 45 min
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
-
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Ich habe ein gutes Gefühl, dass ich die Funktionen schaffe. Doch ich fühle mich noch nicht so sicher beim Programieren von Klassen und wie sich sie richtig einsetzen muss.
+Ich tendiere dazu, dass ich Probleme mit den Klassen bekommen werde.
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
-
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+| 1.A	 | 08.09.2023 | Dorian | 90-120 min	 | ~ 90 min  |
+| 2.B	 | 08.09.2023 | Dorian | 120-165 min | ~ 105 min |
+| 3.C	 | 08.09.2023 | Dorian | 120-165 min | ~ 145 min |
+| 4.D	 | 08.09.2023	| Dorian | 120-165 min | ~ 150 min |
+| 5.E	 | 08.09.2023 | Dorian | 90-120 min	 | ~ 60 min  |
 
 ## 5 Kontrollieren
 
