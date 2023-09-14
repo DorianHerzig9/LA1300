@@ -22,23 +22,28 @@ In diesem Projekt will ich mein ehemaliges NumberGesserSpiel mit mehr funktionen
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-###| 1.   | Muss | Qualität | Als ein User möchte ich Sounds hören, damit man weiss, wann man Gewonnen hat. |###
+| 1.   | Kann | Qualität | Als ein User möchte ich einen Score haben, damit ich mich mit mit anderen vergleichen kann. |
 | 2.   | Muss | Qualität | Als ein User möchte ich einen Score habe bei welchem ich sehe wie viel züge ich gebraucht habe. |
 | 3.   | Muss | Qualität | Als ein User möchte ich einen Multiplayermodus haben, damit ich gegen einen gegner spielen kann. |
-| 4.   | Muss | Qualität | Als ein User möchte ich einen Multiplayermodus haben, damit ich sehen kann wer mit weniger Zügen die Zahl gefunden hat. |
-
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+| 4.   | Muss | Qualität | Als ein User möchte ich einen Multiplayermodus haben, damit ich sehen kann wer gewonnen hat. |
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Das Programm ist gestartet und funktionsbereit | Spieler giebt eine korekte Zahl ein | Das Programm gibt einen Sound aus |
-| 2.1  | Das Programm ist gestartet und funktionsbereit | Spieler giebt eine eine falsche Zahl ein | Das Programm gibt einen Sound aus |
-| 3.1  | Das Programm ist gestartet und funktionsbereit | Spieler giebt eine eine nicht gültige Zahl ein | Das Programm gibt einen Sound aus |
-| 4.1  | Das Programm wurde gestartet und es wird gefragt ob man den Multiplayermodus wählen will| Ja | Das Programm führt einen Spielmodus aus in welchem zwei User spielen können |
-| 4.2  | Das Programm wurde gestartet und es wird gefragt ob man den Multiplayermodus wählen will | Nein | Das Programm führt einen Spielmodus aus in welchem nur ein User spielen kann|
-| 4.3  | Das Programm wurde gestartet und es wird gefragt ob man den Multiplayermodus wählen will | Jain | Das Programm bemerkt die falsche eingabe und bittet den User auf eine korekte eingabe zu machen|
+| 1.1 | Das Programm ist im Singleplayer-Modus gestartet und funktionsbereit | ------- | Der Score wird nicht angezeigt, da noch keine Züge gemacht wurden. |
+| 1.2 | Der User hat bereits einige Züge gemacht im Singleplayer-Modus | ------- | Der aktuelle Score zeigt die Anzahl der bisherigen Züge im Singleplayer-Modus an. |
+| 1.3 | Das Spiel im Singleplayer-Modus wurde beendet | ------- | Der endgültige Score wird angezeigt, und der User kann ihn mit anderen vergleichen. |
+| 2.1 | Das Spiel im Singleplayer-Modus läuft, und der User hat noch keinen Zug gemacht | ------- | Der Score zeigt 0 Züge an. |
+| 2.2 | Der User hat bereits einige Züge gemacht im Singleplayer-Modus | ------- | Der aktuelle Score zeigt die Anzahl der bisherigen Züge im Singleplayer-Modus an. |
+| 2.3 | Das Spiel im Singleplayer-Modus ist beendet, und der User sieht das Endergebnis | ------- | Der endgültige Score zeigt die Gesamtanzahl der Züge an, die der User im gesamten Singleplayer-Spiel gemacht hat. |
+| 3.1 | Das Programm wurde gestartet, und der User wählt den Multiplayer-Modus aus | ------- | Das Programm startet den Multiplayer-Modus, in dem zwei Spieler gegeneinander spielen können. |
+| 3.2 | Das Programm wurde gestartet, und der User wählt den Einzelspieler-Modus aus | ------- | Das Programm startet den Einzelspieler-Modus, in dem nur ein Spieler spielt. |
+| 3.3 | Das Programm wurde gestartet, und der User gibt eine ungültige Eingabe ein (weder Ja noch Nein)	 | Jain | Das Programm erkennt die ungültige Eingabe und fordert den User auf, eine korrekte Eingabe zu machen. |
+| 4.1 | Das Multiplayer-Spiel ist beendet, und ein Spieler hat gewonnen | ------- | Das Ergebnis zeigt an, welcher Spieler gewonnen hat. |
+| 4.2 | Das Multiplayer-Spiel ist beendet, und es gibt ein Unentschieden | ------- | Das Ergebnis zeigt an, dass das Spiel unentschieden endete. |
+| 4.3 | Das Programm wurde im Einzelspieler-Modus gestartet | ------- | Es wird eine Meldung angezeigt, dass der Singleplayer-Modus gestartet wurde. |
+| 4.4 | Das Programm wurde im Einzelspieler-Modus gestartet, und der User hat das Spiel beendet | ------- | Es wird eine Meldung angezeigt, dass das Singleplayer-Spiel beendet wurde, und der endgültige Score im Singleplayer-Modus wird angezeigt. |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
