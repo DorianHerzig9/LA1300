@@ -1,0 +1,15 @@
+C:\Users\A_119591\source\repos\NummerSpiel\obj\Debug\net6.0\NummerSpiel.csproj.AssemblyReference.cache
+C:\Users\A_119591\source\repos\NummerSpiel\obj\Debug\net6.0\NummerSpiel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A_119591\source\repos\NummerSpiel\obj\Debug\net6.0\NummerSpiel.AssemblyInfoInputs.cache
+C:\Users\A_119591\source\repos\NummerSpiel\obj\Debug\net6.0\NummerSpiel.AssemblyInfo.cs
+C:\Users\A_119591\source\repos\NummerSpiel\obj\Debug\net6.0\NummerSpiel.csproj.CoreCompileInputs.cache
+C:\Users\A_119591\source\repos\NummerSpiel\bin\Debug\net6.0\NummerSpiel.exe
+C:\Users\A_119591\source\repos\NummerSpiel\bin\Debug\net6.0\NummerSpiel.deps.json
+C:\Users\A_119591\source\repos\NummerSpiel\bin\Debug\net6.0\NummerSpiel.runtimeconfig.json
+C:\Users\A_119591\source\repos\NummerSpiel\bin\Debug\net6.0\NummerSpiel.dll
+C:\Users\A_119591\source\repos\NummerSpiel\bin\Debug\net6.0\NummerSpiel.pdb
+C:\Users\A_119591\source\repos\NummerSpiel\obj\Debug\net6.0\NummerSpiel.dll
+C:\Users\A_119591\source\repos\NummerSpiel\obj\Debug\net6.0\refint\NummerSpiel.dll
+C:\Users\A_119591\source\repos\NummerSpiel\obj\Debug\net6.0\NummerSpiel.pdb
+C:\Users\A_119591\source\repos\NummerSpiel\obj\Debug\net6.0\NummerSpiel.genruntimeconfig.cache
+C:\Users\A_119591\source\repos\NummerSpiel\obj\Debug\net6.0\ref\NummerSpiel.dll
