@@ -6,26 +6,26 @@ Dorian Herzig
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|18.08.2023| 0.1 | Heute habe ich mich über die Sound fünktion in C# informiert. |
-|25.08.2023| 0.2 | Heute habe ich mich dafür entschieden, das ich nur eine Score und Multiplaymodus mache. |
-|01.09.2023| 0.3 | Heute habe ich an meinem Projekt gearbeitet und rumprobiert. |
-|08.09.2023| 0.4 | Heute habe ich wieder an meinem Projekt gearbeitet aber ich werde noch Zuhause arbeiten müssen. |
+|18.08.2023| 0.1 | Heute habe ich mich über die Soundfunktion in C# informiert. |
+|25.08.2023| 0.2 | Heute habe ich mich dafür entschieden, dass ich nur einen Score und Multiplaymodus mache. |
+|01.09.2023| 0.3 | Heute habe ich an meinem Projekt gearbeitet und herumprobiert. |
+|08.09.2023| 0.4 | Heute habe ich wieder an meinem Projekt gearbeitet, aber ich werde noch Zuhause arbeiten müssen. |
 |  |  |  |
 
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
 
-In diesem Projekt will ich mein ehemaliges NumberGesserSpiel mit mehr funktionen verbessern und ausstatten. 
+In diesem Projekt will ich mein ehemaliges NumberGesserSpiel mit mehr Funktionen verbessern und ausstatten. 
 
-### 1.2 User Stories
+### 1.2 User Storys
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1.   | Kann | Qualität | Als ein User möchte ich einen Score haben, damit ich mich mit mit anderen vergleichen kann. |
-| 2.   | Muss | Qualität | Als ein User möchte ich einen Score habe bei welchem ich sehe wie viel züge ich gebraucht habe. |
-| 3.   | Muss | Qualität | Als ein User möchte ich einen Multiplayermodus haben, damit ich gegen einen gegner spielen kann. |
-| 4.   | Muss | Qualität | Als ein User möchte ich einen Multiplayermodus haben, damit ich sehen kann wer gewonnen hat. |
+| 1.   | Kann | Qualität | Als ein User möchte ich einen Score haben, damit ich mich mit anderen vergleichen kann. |
+| 2.   | Muss | Qualität | Als ein User möchte ich einen Score habe, bei welchem ich sehe, wie viel Züge ich gebraucht habe. |
+| 3.   | Muss | Qualität | Als ein User möchte ich einen Multiplayer-Modus haben, damit ich gegen einen Gegner spielen kann. |
+| 4.   | Muss | Qualität | Als ein User möchte ich einen Multiplayer-Modus haben, damit ich sehen kann, wer gewonnen hat. |
 
 ### 1.3 Testfälle
 
@@ -59,12 +59,12 @@ In diesem Projekt will ich mein ehemaliges NumberGesserSpiel mit mehr funktionen
 | 4.D |08.09.2023|Dorian| Score implementieren | 120-165 min |
 | 5.E |08.09.2023|Dorian| Portfolioeintrag | 90-120 min|
 
-Total: 18 Arbeitsparkete 
+Total: 18 Arbeitspakete 
 1 = 45 min
 
 ## 3 Entscheiden
 
-Ich habe ein gutes Gefühl, dass ich die Funktionen schaffe. Doch ich fühle mich noch nicht so sicher beim Programieren von Klassen und wie sich sie richtig einsetzen muss.
+Ich habe ein gutes Gefühl, dass ich die Funktionen schaffe. Doch ich fühle mich noch nicht so sicher beim Programmieren von Klassen und wie sich sie richtig einsetzen muss.
 Ich tendiere dazu, dass ich Probleme mit den Klassen bekommen werde.
 
 ## 4 Realisieren
@@ -106,7 +106,7 @@ Ich tendiere dazu, dass ich Probleme mit den Klassen bekommen werde.
 
 ## 6 Auswerten
 
-Ich glaube, dass ich das Projekt erfüllen konnt. Doch das, mit Hilfe von ChatGPT und Mitschülern. Am meisten Probleme hatte ich bei den Klassen.
-Als Verbesserungsvorschlag werde ich mich mit Klassen in
+Ich glaube, dass ich das Projekt erfüllen konnte. Doch das, mit Hilfe von ChatGPT und Mitschülern. Am meisten Probleme hatte ich bei den Klassen.
+Um im Programmieren von Klassen besser zu werden, werde ich mich in naher Zukunft mich weiter mit Klassen vertiefen.
 
 ✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
