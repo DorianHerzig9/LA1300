@@ -107,5 +107,3 @@ Ich tendiere dazu, dass ich Probleme mit den Klassen bekommen werde.
 
 Ich glaube, dass ich das Projekt erfüllen konnte. Doch das, mit Hilfe von ChatGPT und Mitschülern. Am meisten Probleme hatte ich bei den Klassen.
 Um im Programmieren von Klassen besser zu werden, werde ich mich in naher Zukunft mich weiter mit Klassen vertiefen.
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
