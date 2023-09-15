@@ -79,24 +79,34 @@ Ich tendiere dazu, dass ich Probleme mit den Klassen bekommen werde.
 
 ## 5 Kontrollieren
 
-### 5.1 Testprotokoll
-
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 15.09.2023 | OK | Dorian |
+| 1.2  | 15.09.2023 | NOK | Dorian |
+| 1.3  | 15.09.2023 | OK | Dorian |
+| 2.1  | 15.09.2023 | NOK | Dorian |
+| 2.2  | 15.09.2023 | NOK | Dorian |
+| 2.3  | 15.09.2023 | OK | Dorian |
+| 3.1  | 15.09.2023 | OK | Dorian |
+| 3.2  | 15.09.2023 | OK | Dorian |
+| 3.3  | 15.09.2023 | NOK | Dorian |
+| 4.1  | 15.09.2023 | OK | Dorian |
+| 4.2  | 15.09.2023 | NOK | Dorian |
+| 4.3  | 15.09.2023 | OK | Dorian |
+| 4.4  | 15.09.2023 | OK | Dorian |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
+# NOK
+| TC-№ | Grund |
+| ---- | ----- |
+| 1.2  | Der Score wird nicht während dem Spiel angezeigt. |
+| 2.1  | Der Score wird nicht während dem Spiel angezeigt. |
+| 2.2  | Der Score wird nicht während dem Spiel angezeigt. |
+| 3.3  | Das Programm schaltet sich ab. |
+| 4.2  | Es gibt kein Unentschieden. |
 
 ## 6 Auswerten
+
+Ich glaube, dass ich das Projekt erfüllen konnt. Doch das, mit Hilfe von ChatGPT und Mitschülern. Am meisten Probleme hatte ich bei den Klassen.
+Als Verbesserungsvorschlag werde ich mich mit Klassen in
 
 ✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
