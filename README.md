@@ -10,7 +10,6 @@ Dorian Herzig
 |25.08.2023| 0.2 | Heute habe ich mich dafür entschieden, dass ich nur einen Score und Multiplaymodus mache. |
 |01.09.2023| 0.3 | Heute habe ich an meinem Projekt gearbeitet und herumprobiert. |
 |08.09.2023| 0.4 | Heute habe ich wieder an meinem Projekt gearbeitet, aber ich werde noch Zuhause arbeiten müssen. |
-|  |  |  |
 
 ## 1 Informieren
 
